@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.header {
+    margin: 50px auto;
+    text-align: center;
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(65, 65, 100, 0.808);
+    text-shadow: cornflowerblue 1px 1px 6px, rgb(152, 236, 247) -1px -1px 6px;
+}
+
+#countdown {
+    margin: 5rem;
+    text-align: center;
+    color: blue;
+    font-size: 5em;
+    padding: 5%;
+    border: 3px solid rgb(8, 167, 216);
+}
