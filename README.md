@@ -1,4 +1,4 @@
 # lanzamiento
-cuenta regresiva para nuestro lanzamiento como programador@s independientes.
+cuenta regresiva para el lanzamiento como programador junior del pequeño angel.
 
-Fecha limite 15 de octubre de 2021 mas o menos a las 15hs.
+Fecha limite 5 de mayo de 2022 mas o menos a las 15hs.
